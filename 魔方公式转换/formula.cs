@@ -29,7 +29,7 @@ namespace RubiksCube
                 }
                 else if (c == '2')
                 {
-                    _formula.add(temStr);
+                    _formula.add(temStr.ToString());
                 }
             }
             _formula.Add(temStr.ToString());
